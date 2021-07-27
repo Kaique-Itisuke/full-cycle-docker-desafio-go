@@ -7,3 +7,6 @@ $ docker run --rm --name full-cycle-desafio-go kaiqueitisuke/full-cycle-desafio-
 ```bash
 $ docker images | grep kaiqueitisuke/full-cycle-desafio-go
 ```
+
+## A imagem do Docker Hub pode ser acessada no link abaixo:
+> https://hub.docker.com/repository/docker/kaiqueitisuke/full-cycle-desafio-go
